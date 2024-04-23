@@ -5,6 +5,6 @@ course="This is current script in devops"
 
 echo "this is current script : $course"
 
-./other.sh
+source ./other.sh
 
 echo "Process Id is: $$"
