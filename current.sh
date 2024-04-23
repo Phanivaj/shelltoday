@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-var="This is current script in devops"
+course="This is current script in devops"
 
-echo "this is current script : $var"
+echo "this is current script : $course"
 
 ./other.sh
 
